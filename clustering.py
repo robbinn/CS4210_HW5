@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Siwen Wang
 # FILENAME: clustering
 # SPECIFICATION: Assignment #5, question #3
 # FOR: CS 4200- Assignment #5
